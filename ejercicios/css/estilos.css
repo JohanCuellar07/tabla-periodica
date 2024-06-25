@@ -1,0 +1,181 @@
+body{
+    background-color: rgb(188, 238, 241);
+}
+
+.espaciotitulo{
+    background-color: #ec3a3a;
+    border-radius: 20px;
+    margin: 0px 340px 0px 340px;
+}
+
+.titulo{
+    color: #ffffff;
+    font-size: 50px;
+    text-align: center;
+}
+
+.col-3{
+    display: flex;
+}
+
+.col-1{
+    border: 1px solid #000;
+    height: 70px;
+    width: 70px;
+    text-align: center;
+}
+
+.espacio1{
+    height: 70px;
+    width: 1120px;
+}
+
+.espacio2{
+    height: 70px;
+    width: 700px;
+    font-weight: bolder;
+    font-size: larger;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    color: #7ad1d4;
+}
+
+.espacio3{
+    height: 70px;
+    width: 280px;
+}
+
+.espacio4{
+    height: 70px;
+    width: 210px;
+}
+
+.espacio5{
+    height: 18px;
+    width: 1260px;
+}
+
+.espacio{
+    height: 1px;
+    width: 30px;
+}
+
+.espacion{
+    height: 70px;
+    width: 70px;
+}
+
+.container{
+    margin: auto;
+}
+
+.num{
+    display: flex;
+}
+
+.numAtom{
+    font-size: medium;
+    margin: 0px 0px 0px 1px;
+}
+
+.masaAtom{
+    font-size: xx-small;
+    text-align: right;
+    margin: 0px 1px 0px 0px;
+}
+
+.simbolo{
+    font-size: larger;
+    font-weight: bold;
+    margin: 0px 0px 1px 0px;
+}
+
+.nombre{
+    font-size: x-small;
+    margin: 0px 0px 1px 0px;
+}
+
+.nM{
+    background-color: #e99cba;
+}
+
+.gN{
+    background-color: #c6e35c;
+}
+
+.mA{
+    background-color: #ddd23b;
+}
+
+.meAl{
+    background-color: #e9b788;
+}
+
+.me{
+    background-color: #6697b4;
+}
+
+.h{
+    background-color: #d39c54;
+}
+
+.met{
+    background-color: #72da6f;
+}
+
+.meTr{
+    background-color: #7ad1d4;
+}
+
+.laac{
+    background-color: #a566c9;
+}
+
+img{
+    border-radius: 10px;
+    height: 200px;
+    width: 200px;
+    margin: 10px 25px 10px 50px;
+}
+
+.info1{
+    background-color: #E6E6FA;
+    border-radius: 10px;
+    display: flex;
+}
+
+.orden{
+    display: flex;
+}
+
+.subtitulo{
+    font-weight: bold;
+}
+
+.info2{
+    margin: 15px 0px 0px 25px;
+}
+
+p{
+    font-size: large;
+    font-weight: 450;
+    padding: 0px 10px;
+}
+
+.modal-header{
+    background-color: #D3D3D3;
+}
+
+.modal-body{
+    background-color: #F0F0F0;
+}
+
+.modal-footer{
+    background-color: #E6E6FA;
+}
+
+.colvac{
+    width: 70px;
+    height: 70px;
+}
